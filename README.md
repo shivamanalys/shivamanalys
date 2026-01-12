@@ -1,7 +1,7 @@
 # Hi there, I'm Shivam Mishra 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Aspiring+Data+Analyst;Learning+Data+Analytics+%26+BI;Turning+Data+into+Insights;First-Year+Student+%7C+Growth+Mindset" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;Data+Analytics+%26+Data+Science+Foundations;Turning+Data+into+Insights;Analytics+%7C+Business+%7C+Finance+Mindset" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -20,30 +20,41 @@
 
 ## 🚀 About Me  
 
-I’m a **first-year student preparing for a Data Analyst role** with a strong interest in data, analytics, and business insights.  
-I enjoy learning how to clean, analyze, and visualize data to discover meaningful patterns.
+I’m an **aspiring Data Analyst** with a strong interest in **data analytics, business intelligence, and data science fundamentals**.  
+I enjoy working with data to uncover patterns, trends, and insights that support better decision-making.
 
-Currently, I’m focused on building a solid foundation in **Excel, SQL, Python, and data analytics concepts**, with the goal of solving real-world problems using data.
+My focus is on building a solid foundation in **Excel, SQL, Python, statistics, and data visualization**, while gradually moving toward more advanced analytics and data science concepts.
 
-I enjoy the moment when data starts making sense and tells a clear story.
+I’m particularly interested in roles where data meets business and finance, and where insights create real-world impact.
 
 ---
 
 ## 🔭 What I'm Currently Working On  
 
-- **Practice Projects:** Basic data analysis using Excel and Python  
-- **Learning SQL:** Writing queries to explore and analyze datasets  
-- **Foundations:** Statistics and analytical thinking for data analysis  
+- **Data Analysis Practice:** Working with datasets using Excel and Python  
+- **SQL Development:** Writing queries for data exploration and reporting  
+- **Analytical Foundations:** Statistics, logic, and problem-solving  
+- **Dashboard Thinking:** Understanding how insights are presented to stakeholders  
 
 ---
 
 ## 🌱 Currently Learning  
 
-- Data Analysis fundamentals  
-- Excel for data analysis  
-- SQL basics  
+- Data Analytics & Business Intelligence fundamentals  
+- Excel (analysis, formulas, dashboards)  
+- SQL for data querying and analysis  
 - Python for data analysis  
-- Data visualization concepts  
+- Basics of data science and predictive thinking  
+
+---
+
+## 🧭 Areas of Interest  
+
+- Data Analyst  
+- Business Analyst  
+- Financial Analyst  
+- Data Science (foundational level)  
+- Business Intelligence & Reporting  
 
 ---
 
@@ -61,12 +72,13 @@ I enjoy the moment when data starts making sense and tells a clear story.
   <img src="https://img.shields.io/badge/Python-Learning-3776AB?style=flat&logo=python&logoColor=white">
 </p>
 
-### Analytics Fundamentals
+### Analytics & Data Science Foundations
 <p>
-  <img src="https://img.shields.io/badge/Statistics-Beginner-4ECDC4?style=flat">
-  <img src="https://img.shields.io/badge/Problem%20Solving-Learning-96CEB4?style=flat">
+  <img src="https://img.shields.io/badge/Statistics-Learning-4ECDC4?style=flat">
+  <img src="https://img.shields.io/badge/Data%20Science-Beginner-6A5ACD?style=flat">
+  <img src="https://img.shields.io/badge/Problem%20Solving-Developing-96CEB4?style=flat">
 </p>
 
 ---
 
-⭐ *This profile will grow as I build projects and skills in data analytics.*
+⭐ *This profile will evolve as I build projects, dashboards, and real-world analytical skills.*
